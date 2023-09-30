@@ -11,14 +11,13 @@
 
 
 I used several classification model to predict whether the lead is going to quantify as a hot lead. The steps involved for this project are mentioned below:
-
-Data Loading
-Data Exploration a.k.a Exploratory Data Analysis
-Preprocessing
-Feature Engineering
-Outlier Analysis
-Model Building
-Model Performance Benchmarking
-Model Performance Evaluation
-Cross Validation + Hyperparameter Tuning
-Model Diagnosis Using Probability Calibration, ROC AUC Curve, Precision-Recall Curve
+- Data Loading
+- Data Exploration a.k.a Exploratory Data Analysis
+- Preprocessing
+- Feature Engineering
+- Outlier Analysis
+- Model Building
+- Model Performance Benchmarking
+- Model Performance Evaluation
+- Cross Validation + Hyperparameter Tuning
+- Model Diagnosis Using Probability Calibration, ROC AUC Curve, Precision-Recall Curve
