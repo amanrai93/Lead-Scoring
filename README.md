@@ -1,6 +1,6 @@
 # Lead-Scoring
 
-## ML model that predicts Leads with a sighnificant chance of conversion thereby improving converson rates and company revenue!
+## ML model that predicts Leads with a significant chance of conversion thereby improving conversion rates and company revenue!
 
 ## Problem Statement:
 - An education company named X Education sells online courses to industry professionals
